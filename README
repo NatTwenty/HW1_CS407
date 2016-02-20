@@ -1,0 +1,6 @@
+Dylan Homuth
+CS 407 HW #1
+
+Link to video walk through: https://youtu.be/wSJ9QnfVRzc
+
+This is the first homework for CS 407, a very simple quiz app. A user is asked two simple questions on seperate pages and then a result page is shown. There is a slight bug in that the responce to the first question persists after a reset from the result page due to the view controlar remaining live and no method put in to clear the feild.
